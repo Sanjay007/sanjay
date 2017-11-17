@@ -1,5 +1,5 @@
-[
-  {
+{"site":
+  [{
   "siteId": "6928",
   "siteName": "Arvest Bank (AR)",
   "loginUrl": "https://www.arvest.com/personal/signon/logon",
@@ -10,6 +10,5 @@
   "siteName": "Arvest Bank (AR)",
   "loginUrl": "https://www.arvest.com/personal/signon/logon",
   "baseUrl": "https://www.arvest.com"
-} 
-
-]
+} ]
+}
