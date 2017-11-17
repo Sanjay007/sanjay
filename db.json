@@ -1,14 +1,11 @@
-{"site":
-  [{
-  "siteId": "6928",
-  "siteName": "Arvest Bank (AR)",
-  "loginUrl": "https://www.arvest.com/personal/signon/logon",
-  "baseUrl": "https://www.arvest.com"
-} ,
- {
-  "siteId": "6928",
-  "siteName": "Arvest Bank (AR)",
-  "loginUrl": "https://www.arvest.com/personal/signon/logon",
-  "baseUrl": "https://www.arvest.com"
-} ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
