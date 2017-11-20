@@ -7,10 +7,99 @@
   ],
    "site": [
     {
-      "id": 1,
-      "title": "hello",
-      "name":"First tech"
-    }
+                    "id": "1",
+                    "siteName": "SBI India",
+                    "siteUrl": "http://sbionline.com",
+                    "version": [
+                        {
+                            "id": "1",
+                            "updatedBy": "sshrivsatava1",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "2",
+                            "updatedBy": "sshrivsatava2",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "3",
+                            "updatedBy": "sshrivsatava3",
+                            "updatedOn": "14 AUg, 2017"
+                        }, {
+                            "id": "1",
+                            "updatedBy": "sshrivsatava1",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "2",
+                            "updatedBy": "sshrivsatava2",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "3",
+                            "updatedBy": "sshrivsatava3",
+                            "updatedOn": "14 AUg, 2017"
+                        }, {
+                            "id": "1",
+                            "updatedBy": "sshrivsatava1",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "2",
+                            "updatedBy": "sshrivsatava2",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "3",
+                            "updatedBy": "sshrivsatava3",
+                            "updatedOn": "14 AUg, 2017"
+                        }
+                    ]
+                },
+                {
+                    "id": "1",
+                    "siteName": "UBI India",
+                    "siteUrl": "http://ubi.com",
+                    "version": [
+                        {
+                            "id": "1",
+                            "updatedBy": "sshrivsatava1",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "2",
+                            "updatedBy": "sshrivsatava2",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "3",
+                            "updatedBy": "sshrivsatava3",
+                            "updatedOn": "14 AUg, 2017"
+                        }
+                    ]
+                },
+                {
+                    "id": "1",
+                    "siteName": "Kendra India",
+                    "siteUrl": "http://kenra.com",
+                    "version": [
+                        {
+                            "id": "1",
+                            "updatedBy": "sshrivsatava1",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "2",
+                            "updatedBy": "sshrivsatava2",
+                            "updatedOn": "14 AUg, 2017"
+                        },
+                        {
+                            "id": "3",
+                            "updatedBy": "sshrivsatava3",
+                            "updatedOn": "14 AUg, 2017"
+                        }
+                    ]
+                }
   ],
   "profile": {
     "name": "typicode"
